@@ -1,4 +1,4 @@
-# Landing-Page @codesoft
+# Landing-Page @codsoft
 
 CODSOFT
 
